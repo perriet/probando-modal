@@ -38,9 +38,9 @@ document.addEventListener("keyup", e => {
   }
 });
 function load() {
-    alert('se ha cargado el modal')
-    document.getElementById(modalId).classList.add(isVisible);
-  }
-  window.onload = function(){
-      load();
-  }
+        alert("evento load detectado!");
+        document.getElementById(modalId).classList.add(isVisible);
+      }
+      window.onload = function() {
+        load();
+      };

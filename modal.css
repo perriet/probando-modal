@@ -39,6 +39,7 @@
   }
   
   .open-modal {
+      
     font-weight: bold;
     background: var(--blue);
     color: var(--white);
