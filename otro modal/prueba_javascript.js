@@ -9,7 +9,7 @@
 
 // var tazagrande=15;
 // tazagrande += tazaazucar; // suma
-// document.write(tazagrande); // escribe en el html
+// // document.write(tazagrande); // escribe en el html
 
 
 // var taza1="cafe";
@@ -222,5 +222,4 @@
 // else{
 // alert("tacaño, comprá en otro lado");
 // }
-
 
