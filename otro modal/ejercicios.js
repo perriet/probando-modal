@@ -9,7 +9,7 @@
 
 // crear mini-sistema para registrar presentes(P) y ausentes(A)
 // pasados 30 mostrar su situacion su situacion final del alumno
-// maximo de 10% de ausencias
+// maximo de 25% de ausencias
 
 // ejercicio 3
 

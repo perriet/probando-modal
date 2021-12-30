@@ -8,8 +8,8 @@
 </head>
 <body>
     
-<script src="ejercicio_1.js"></script>
+<!--<script src="ejercicio_1.js"></script>-->
 <script src="ejercicio_2.js"></script>
-<script src="ejercicio_3.js"></script>
+<!--<script src="ejercicio_3.js"></script>-->
 </body>
 </html>
